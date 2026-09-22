@@ -1,4 +1,3 @@
-![Google Form Zapier Automation](https://imgur.com/ONqSnz9.png)
 # Google Form + Zapier + Google Sheets Automation
 
 ## Overview
